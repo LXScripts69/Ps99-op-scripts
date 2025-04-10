@@ -1,6 +1,4 @@
-# Ps99-op-scripts
-Some of the best and most important ps99 scripts 
-lua
+ lua
 --[[
   __  __       _ _     _             _           
   |  \/  | __ _(_) |___| |_ ___  __ _| | ___ _ __ 
